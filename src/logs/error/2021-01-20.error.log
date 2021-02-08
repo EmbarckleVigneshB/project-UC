@@ -1,0 +1,15 @@
+2021-01-20 17:09:40 error: uncaughtException: Operation `users.find()` buffering timed out after 10000ms
+MongooseError: Operation `users.find()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\bvign\myapp\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:20)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+2021-01-20 17:09:40 error: uncaughtException: Operation `users.insertOne()` buffering timed out after 10000ms
+MongooseError: Operation `users.insertOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\bvign\myapp\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:20)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+2021-01-20 17:09:40 error: uncaughtException: Operation `users.insertOne()` buffering timed out after 10000ms
+MongooseError: Operation `users.insertOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\bvign\myapp\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:20)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)

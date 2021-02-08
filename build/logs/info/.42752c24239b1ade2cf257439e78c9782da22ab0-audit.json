@@ -1,0 +1,104 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\bvign\\myapp\\build\\logs\\info\\.42752c24239b1ade2cf257439e78c9782da22ab0-audit.json",
+    "files": [
+        {
+            "date": 1610722169449,
+            "name": "C:\\Users\\bvign\\myapp\\build\\logs\\info\\2021-01-15.log",
+            "hash": "1070ac5ad4eab1ad792444764f8fdbb3"
+        },
+        {
+            "date": 1610948535657,
+            "name": "C:\\Users\\bvign\\myapp\\build\\logs\\info\\2021-01-18.log",
+            "hash": "6ade92a671ab0f4208328381011282a3"
+        },
+        {
+            "date": 1611039591503,
+            "name": "C:\\Users\\bvign\\myapp\\build\\logs\\info\\2021-01-19.log",
+            "hash": "092ea5dabf5a01e21dc56ca1c1b7928e"
+        },
+        {
+            "date": 1611119065851,
+            "name": "C:\\Users\\bvign\\myapp\\build\\logs\\info\\2021-01-20.log",
+            "hash": "f2014df80f7263af76f65756c7580c26"
+        },
+        {
+            "date": 1611206905444,
+            "name": "C:\\Users\\bvign\\myapp\\build\\logs\\info\\2021-01-21.log",
+            "hash": "c96858022b4553fed87d48cdb0463e96"
+        },
+        {
+            "date": 1611322125019,
+            "name": "C:\\Users\\bvign\\myapp\\build\\logs\\info\\2021-01-22.log",
+            "hash": "e348da30cdb0c382f20cdc8570eec560"
+        },
+        {
+            "date": 1611384122462,
+            "name": "C:\\Users\\bvign\\myapp\\build\\logs\\info\\2021-01-23.log",
+            "hash": "e7e90c4a22726ca67753e43e224289e3"
+        },
+        {
+            "date": 1611558382026,
+            "name": "C:\\Users\\bvign\\myapp\\build\\logs\\info\\2021-01-25.log",
+            "hash": "a077b7839baceda2d11bda97273cade2"
+        },
+        {
+            "date": 1611637364910,
+            "name": "C:\\Users\\bvign\\myapp\\build\\logs\\info\\2021-01-26.log",
+            "hash": "196264f18618dc0f5a4b595b411690cc"
+        },
+        {
+            "date": 1611752156453,
+            "name": "C:\\Users\\bvign\\myapp\\build\\logs\\info\\2021-01-27.log",
+            "hash": "198a0601cef7307c62fee5806ce48c81"
+        },
+        {
+            "date": 1611813172523,
+            "name": "C:\\Users\\bvign\\myapp\\build\\logs\\info\\2021-01-28.log",
+            "hash": "34bfaed7052bec5a03f41bf9efd58e31"
+        },
+        {
+            "date": 1611901841758,
+            "name": "C:\\Users\\bvign\\myapp\\build\\logs\\info\\2021-01-29.log",
+            "hash": "9bd851e5609ced569687521ceffaf68b"
+        },
+        {
+            "date": 1611983383996,
+            "name": "C:\\Users\\bvign\\myapp\\build\\logs\\info\\2021-01-30.log",
+            "hash": "b4304d10f3266872dd5d3d64b754f073"
+        },
+        {
+            "date": 1612103304335,
+            "name": "C:\\Users\\bvign\\myapp\\build\\logs\\info\\2021-01-31.log",
+            "hash": "8238c533e9f609aad9050b1e6b8e20c5"
+        },
+        {
+            "date": 1612168258256,
+            "name": "C:\\Users\\bvign\\myapp\\build\\logs\\info\\2021-02-01.log",
+            "hash": "47e1d76052a66f60ce5de831c25f240a"
+        },
+        {
+            "date": 1612241886679,
+            "name": "C:\\Users\\bvign\\myapp\\build\\logs\\info\\2021-02-02.log",
+            "hash": "6bd20172c115e6ed69c4ba1902c633db"
+        },
+        {
+            "date": 1612336683830,
+            "name": "C:\\Users\\bvign\\myapp\\build\\logs\\info\\2021-02-03.log",
+            "hash": "11c29e034660625656140713ecf6a328"
+        },
+        {
+            "date": 1612434565126,
+            "name": "C:\\Users\\bvign\\myapp\\build\\logs\\info\\2021-02-04.log",
+            "hash": "2bb913c35f134c113a7d69f2cafc3749"
+        },
+        {
+            "date": 1612769054188,
+            "name": "C:\\Users\\bvign\\myapp\\build\\logs\\info\\2021-02-08.log",
+            "hash": "49e2c536d3d4bf55abe8e6e29599a14b"
+        }
+    ]
+}

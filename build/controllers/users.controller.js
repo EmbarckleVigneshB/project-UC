@@ -1,0 +1,71 @@
+"use strict";
+var __importDefault = (this && this.__importDefault) || function (mod) {
+    return (mod && mod.__esModule) ? mod : { "default": mod };
+};
+Object.defineProperty(exports, "__esModule", { value: true });
+const users_service_1 = __importDefault(require("../services/users.service"));
+class UsersController {
+    constructor() {
+        this.userService = new users_service_1.default();
+        this.getUsers = async (req, res, next) => {
+            try {
+                const findAllUsersData = await this.userService.findAllUser();
+                console.log("findAllUsersData", findAllUsersData);
+                res.status(200).json({ data: findAllUsersData, message: 'findAll' });
+            }
+            catch (error) {
+                next(error);
+            }
+        };
+        this.getUserById = async (req, res, next) => {
+            try {
+                const userId = String(req.params.id);
+                const findOneUserData = await this.userService.findUserById(userId);
+                console.log("findOneUserData", findOneUserData);
+                res.status(200).json({ data: findOneUserData, message: 'findOne' });
+            }
+            catch (error) {
+                next(error);
+            }
+        };
+        this.createUser = async (req, res, next) => {
+            try {
+                const userData = req.body;
+                console.log("userData", userData);
+                const createUserData = await this.userService.createUser(userData);
+                console.log("created", createUserData);
+                res.status(201).json({ data: createUserData, message: 'created' });
+            }
+            catch (error) {
+                next(error);
+            }
+        };
+        this.updateUser = async (req, res, next) => {
+            try {
+                const userId = String(req.params.id);
+                const userData = req.body;
+                console.log("update user", userData);
+                const updateUserData = await this.userService.updateUser(userId, userData);
+                console.log("updated users", updateUserData);
+                res.status(200).json({ data: updateUserData, message: 'updated' });
+            }
+            catch (error) {
+                next(error);
+            }
+        };
+        this.deleteUser = async (req, res, next) => {
+            try {
+                const userId = String(req.params.id);
+                console.log("USER ID", userId);
+                const deleteUserData = await this.userService.deleteUser(userId);
+                console.log("deleteUserID", deleteUserData);
+                res.status(200).json({ data: deleteUserData, message: 'deleted' });
+            }
+            catch (error) {
+                next(error);
+            }
+        };
+    }
+}
+exports.default = UsersController;
+//# sourceMappingURL=users.controller.js.map

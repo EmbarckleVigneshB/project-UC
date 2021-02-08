@@ -1,0 +1,37 @@
+2021-01-26 11:25:28 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (C:\Users\bvign\myapp\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\Users\bvign\myapp\build\app.js:29:18)
+    at Object.<anonymous> (C:\Users\bvign\myapp\build\server.js:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-01-26 12:47:09 error: StatusCode : 500, Message : Cannot read property 'find' of undefined
+2021-01-26 16:32:52 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (C:\Users\bvign\myapp\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\Users\bvign\myapp\build\app.js:29:18)
+    at Object.<anonymous> (C:\Users\bvign\myapp\build\server.js:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-01-26 16:36:02 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (C:\Users\bvign\myapp\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\Users\bvign\myapp\build\app.js:29:18)
+    at Object.<anonymous> (C:\Users\bvign\myapp\build\server.js:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)

@@ -1,0 +1,104 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\bvign\\myapp\\build\\logs\\error\\.21e322e9639404eb8c0f787bb4e1595090e3560a-audit.json",
+    "files": [
+        {
+            "date": 1610722169455,
+            "name": "C:\\Users\\bvign\\myapp\\build\\logs\\error\\2021-01-15.error.log",
+            "hash": "2c3a73e64279095f31681942639d9ce4"
+        },
+        {
+            "date": 1610948535662,
+            "name": "C:\\Users\\bvign\\myapp\\build\\logs\\error\\2021-01-18.error.log",
+            "hash": "26e1c60342897040b027b3c730eb5324"
+        },
+        {
+            "date": 1611039591509,
+            "name": "C:\\Users\\bvign\\myapp\\build\\logs\\error\\2021-01-19.error.log",
+            "hash": "c8b4321c72f225e7f3422fb2f7121094"
+        },
+        {
+            "date": 1611119065855,
+            "name": "C:\\Users\\bvign\\myapp\\build\\logs\\error\\2021-01-20.error.log",
+            "hash": "01f107b3a3a9bcc65140a01dfba4b361"
+        },
+        {
+            "date": 1611206905450,
+            "name": "C:\\Users\\bvign\\myapp\\build\\logs\\error\\2021-01-21.error.log",
+            "hash": "52022c8c35bcb9b1baa09541f17cf8c9"
+        },
+        {
+            "date": 1611322125023,
+            "name": "C:\\Users\\bvign\\myapp\\build\\logs\\error\\2021-01-22.error.log",
+            "hash": "af746d418dbc54703ce84834d1741c83"
+        },
+        {
+            "date": 1611384122467,
+            "name": "C:\\Users\\bvign\\myapp\\build\\logs\\error\\2021-01-23.error.log",
+            "hash": "e7663f41fb6dd738d26039bb0e3fe3b4"
+        },
+        {
+            "date": 1611558382034,
+            "name": "C:\\Users\\bvign\\myapp\\build\\logs\\error\\2021-01-25.error.log",
+            "hash": "9e3fe610ff7c838b02fc59a3b7f965ff"
+        },
+        {
+            "date": 1611637364916,
+            "name": "C:\\Users\\bvign\\myapp\\build\\logs\\error\\2021-01-26.error.log",
+            "hash": "d2e47ddaae124da6063b21befd8b3d5a"
+        },
+        {
+            "date": 1611752156459,
+            "name": "C:\\Users\\bvign\\myapp\\build\\logs\\error\\2021-01-27.error.log",
+            "hash": "5ea7032ae7b0f44eb85e417b98d9f951"
+        },
+        {
+            "date": 1611813172531,
+            "name": "C:\\Users\\bvign\\myapp\\build\\logs\\error\\2021-01-28.error.log",
+            "hash": "9a1e47b8d4b7fb54f9809f39e90eb32d"
+        },
+        {
+            "date": 1611901841762,
+            "name": "C:\\Users\\bvign\\myapp\\build\\logs\\error\\2021-01-29.error.log",
+            "hash": "5907518f1c5cf9ff66af50fbd51441a6"
+        },
+        {
+            "date": 1611983384002,
+            "name": "C:\\Users\\bvign\\myapp\\build\\logs\\error\\2021-01-30.error.log",
+            "hash": "5bdf412aedf47be1d12238900d43bcb4"
+        },
+        {
+            "date": 1612103304341,
+            "name": "C:\\Users\\bvign\\myapp\\build\\logs\\error\\2021-01-31.error.log",
+            "hash": "925059562411852d566a0445d03d9c52"
+        },
+        {
+            "date": 1612168258263,
+            "name": "C:\\Users\\bvign\\myapp\\build\\logs\\error\\2021-02-01.error.log",
+            "hash": "22ec712f113cb18fdab169bff491a01a"
+        },
+        {
+            "date": 1612241886685,
+            "name": "C:\\Users\\bvign\\myapp\\build\\logs\\error\\2021-02-02.error.log",
+            "hash": "cea3e57dda35f2b89ab5bdab2a08ff06"
+        },
+        {
+            "date": 1612336683838,
+            "name": "C:\\Users\\bvign\\myapp\\build\\logs\\error\\2021-02-03.error.log",
+            "hash": "93ca4c200d7a5940c969f9d6b58717e6"
+        },
+        {
+            "date": 1612434565132,
+            "name": "C:\\Users\\bvign\\myapp\\build\\logs\\error\\2021-02-04.error.log",
+            "hash": "1acd6aa8f89424db467d85927ac3760e"
+        },
+        {
+            "date": 1612769054192,
+            "name": "C:\\Users\\bvign\\myapp\\build\\logs\\error\\2021-02-08.error.log",
+            "hash": "2ce248e663a311b645d7b3ae98040363"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\bvign\\myapp\\src\\logs\\info\\.21c4ba2434200d6d3af53a4366eadbb780cffc5b-audit.json",
+    "files": [
+        {
+            "date": 1611142768089,
+            "name": "C:\\Users\\bvign\\myapp\\src\\logs\\info\\2021-01-20.log",
+            "hash": "0504eea9636be1220f5d1d639c5e68c6"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+2021-01-25 12:36:52 error: StatusCode : 500, Message : no primary server available
+2021-01-25 12:38:47 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (C:\Users\bvign\myapp\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\Users\bvign\myapp\build\app.js:29:18)
+    at Object.<anonymous> (C:\Users\bvign\myapp\build\server.js:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-01-25 12:39:59 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (C:\Users\bvign\myapp\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\Users\bvign\myapp\build\app.js:29:18)
+    at Object.<anonymous> (C:\Users\bvign\myapp\build\server.js:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-01-25 12:41:34 error: StatusCode : 500, Message : no primary server available
+2021-01-25 12:41:54 error: StatusCode : 500, Message : no primary server available
+2021-01-25 12:41:59 error: StatusCode : 500, Message : no primary server available
+2021-01-25 12:48:10 error: StatusCode : 500, Message : no primary server available
+2021-01-25 12:53:19 error: StatusCode : 400, Message : username must be a string
+2021-01-25 12:53:23 error: StatusCode : 400, Message : username must be a string
+2021-01-25 13:01:19 error: StatusCode : 500, Message : Cannot read property 'find' of undefined
+2021-01-25 13:09:49 error: StatusCode : 500, Message : no primary server available
+2021-01-25 15:18:30 error: StatusCode : 400, Message : email must be an email, username must be a string
+2021-01-25 15:19:01 error: StatusCode : 400, Message : username must be a string
+2021-01-25 15:22:21 error: StatusCode : 400, Message : email must be an email, username must be a string
+2021-01-25 15:22:39 error: StatusCode : 400, Message : email must be an email
+2021-01-25 15:22:57 error: StatusCode : 400, Message : email must be an email
+2021-01-25 15:40:49 error: StatusCode : 400, Message : email must be an email, username must be a string
+2021-01-25 15:51:24 error: StatusCode : 400, Message : email must be an email
+2021-01-25 15:51:39 error: StatusCode : 400, Message : email must be an email
+2021-01-25 15:51:47 error: StatusCode : 500, Message : Cannot read property 'find' of undefined
+2021-01-25 15:52:19 error: StatusCode : 500, Message : Cannot read property 'find' of undefined
+2021-01-25 15:52:58 error: StatusCode : 500, Message : Cannot read property 'find' of undefined
+2021-01-25 16:32:49 error: StatusCode : 400, Message : email must be an email
+2021-01-25 17:01:39 error: StatusCode : 400, Message : email must be an email

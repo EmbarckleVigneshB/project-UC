@@ -1,0 +1,12 @@
+2021-01-19 12:29:52 info: 🚀 App listening on the port 3000
+2021-01-19 15:48:18 info: 🚀 App listening on the port 3000
+2021-01-19 15:51:11 info: ::1 - - [19/Jan/2021:10:21:11 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36"
+2021-01-19 15:51:12 info: ::1 - - [19/Jan/2021:10:21:12 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36"
+2021-01-19 15:56:11 info: 🚀 App listening on the port 3000
+2021-01-19 16:01:44 info: 🚀 App listening on the port 3000
+2021-01-19 16:07:15 info: 🚀 App listening on the port 3000
+2021-01-19 16:31:56 info: 🚀 App listening on the port 3000
+2021-01-19 18:22:17 info: 🚀 App listening on the port 3000
+2021-01-19 18:22:59 info: 🚀 App listening on the port 3000
+2021-01-19 18:39:44 info: 🚀 App listening on the port 3000
+2021-01-19 18:42:54 info: 🚀 App listening on the port 3000

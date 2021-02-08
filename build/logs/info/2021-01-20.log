@@ -1,0 +1,21 @@
+2021-01-20 10:34:27 info: 🚀 App listening on the port 3000
+2021-01-20 10:53:04 info: 🚀 App listening on the port 3000
+2021-01-20 13:16:00 info: 🚀 App listening on the port 3000
+2021-01-20 13:18:14 info: 🚀 App listening on the port 3000
+2021-01-20 13:19:02 info: 🚀 App listening on the port 3000
+2021-01-20 13:19:53 info: 🚀 App listening on the port 3000
+2021-01-20 13:40:32 info: 🚀 App listening on the port 3000
+2021-01-20 15:25:25 info: 🚀 App listening on the port 3000
+2021-01-20 15:25:53 info: ::1 - - [20/Jan/2021:09:55:53 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36"
+2021-01-20 15:25:54 info: ::1 - - [20/Jan/2021:09:55:54 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36"
+2021-01-20 15:26:00 info: ::1 - - [20/Jan/2021:09:56:00 +0000] "GET /api-docs HTTP/1.1" 301 183 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36"
+2021-01-20 15:26:00 info: ::1 - - [20/Jan/2021:09:56:00 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36"
+2021-01-20 15:26:00 info: ::1 - - [20/Jan/2021:09:56:00 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36"
+2021-01-20 15:26:00 info: ::1 - - [20/Jan/2021:09:56:00 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36"
+2021-01-20 15:26:00 info: ::1 - - [20/Jan/2021:09:56:00 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36"
+2021-01-20 15:26:00 info: ::1 - - [20/Jan/2021:09:56:00 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36"
+2021-01-20 15:36:55 info: 🚀 App listening on the port 3000
+2021-01-20 16:39:55 info: 🚀 App listening on the port 3000
+2021-01-20 17:00:21 info: 🚀 App listening on the port 3000
+2021-01-20 17:36:06 info: 🚀 App listening on the port 3000
+2021-01-20 17:47:45 info: 🚀 App listening on the port 3000
