@@ -140,7 +140,7 @@ const dataAccess = () => {
         finally {
             await client.close();
         }
-        return result;
+    return result;
 
 
     }
